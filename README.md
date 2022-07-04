@@ -1,1 +1,1 @@
-# CalculadoraIMC
+Projeto feito apenas para aprendizado.
